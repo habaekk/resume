@@ -1,9 +1,10 @@
 # Bak Habaek
 
-4th Year Bachelor of Computer Science Student at SeoulTech
-haback1493@gmail.com || Github: https://github.com/habaekk
+* 4th Year Bachelor of Computer Science Student at SeoulTech
+* haback1493@gmail.com || Github: https://github.com/habaekk
 
 ## Work Experience
+.
 
 ## Education
 **Seoul National University of Science and Technology**
