@@ -5,7 +5,11 @@
 
 ## Education
 ***Seoul National University of Science and Technology***
-* Bachelor of Computer Science (expected graduation: Feburary 2024)
+* Bachelor of Computer Science (expected graduation: Feburary 2024) GPA: 4.0 / 4.5
+
+## Research Interest
+* AI
+* Cyber Security
 
 ## Technical Projects
 **Moon Shape Widget**
@@ -23,8 +27,8 @@
 * Playable visual novel game
 * https://play.google.com/store/apps/details?id=com.bada.draw
 
-## Certifications
+## Honors and Awards
 .
 
-## Qualifications
+## Certifications & Qualifications
 * TOEIC - 985/990 (Expired)
