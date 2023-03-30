@@ -3,9 +3,6 @@
 * 4th Year Bachelor of Computer Science Student at SeoulTech
 * email: haback1493@gmail.com || Github: https://github.com/habaekk
 
-## Work Experience
-.
-
 ## Education
 ***Seoul National University of Science and Technology***
 * Bachelor of Computer Science (expected graduation: Feburary 2024)
@@ -25,3 +22,9 @@
   - Game, Visual novel, Python, Renpy
 * Playable visual novel game
 * https://play.google.com/store/apps/details?id=com.bada.draw
+
+## Certifications
+.
+
+## Qualifications
+* TOEIC - 985/990 (Expired)
