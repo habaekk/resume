@@ -27,9 +27,6 @@
 * Playable visual novel game
 * https://play.google.com/store/apps/details?id=com.bada.draw
 
-## Honors and Awards
-.
-
 ## Certifications & Qualifications
 * TOEIC - 985/990 (Expired)
 * SQLD
