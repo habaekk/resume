@@ -32,3 +32,4 @@
 
 ## Certifications & Qualifications
 * TOEIC - 985/990 (Expired)
+* SQLD
