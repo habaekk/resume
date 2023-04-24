@@ -8,9 +8,9 @@
 * Bachelor of Computer Science (expected graduation: Feburary 2024) GPA: 4.0 / 4.5
 
 ## Research Interest
-* IOS Development
 * AI
 * Cyber Security
+* IOS Development
 
 ## Technical Projects
 **Moon Shape Widget**
