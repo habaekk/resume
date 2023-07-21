@@ -23,7 +23,7 @@
 * Python program that gets string as an input and determines whether the sentence is politically right or left
 * https://github.com/habaekk/Right-Left-
 
-**RL-SwingBy**
+**SwingBy-RL**
 - Reinforcement Learning, Unity, ml-agents
 * Teach machine to learn swing-by in the space made with Unity, ml-agents
 * https://github.com/habaekk/SwingByRL
