@@ -8,8 +8,8 @@
 * Bachelor of Computer Science (expected graduation: Feburary 2024) GPA: 3.95 / 4.5
 
 ## Research Interest
-* AI
-* IOS Development
+* IOS, Android Application
+* BackEnd Development 
 
 ## Technical Projects
 **Moon Shape Widget**
@@ -17,6 +17,11 @@
 * IPhone application that can show the moon phase as a lock screen widget
 * Free ver. : https://apps.apple.com/app/moon-shape-widget/id1665266588
 * Paid ver. : https://apps.apple.com/app/moon-shape-pro/id6450383619
+
+**Watering Widget**
+ - Android Studio, Kotlin
+* Android application that can record daily intaken water cups with widget
+* Free ver. : https://play.google.com/store/apps/details?id=com.bada.widgetprac  
 
 **Right-Left-**
   - Python, NLP, Bag of Words
