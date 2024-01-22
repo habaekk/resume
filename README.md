@@ -5,15 +5,14 @@
 
 ## Education
 ***Seoul National University of Science and Technology***
-* Bachelor of Computer Science (expected graduation: Feburary 2024) GPA: 3.95 / 4.5
+* Bachelor of Computer Science GPA: 3.93 / 4.5
 
 ## Research Interest
 * IOS, Android Application
-* BackEnd Development 
 
 ## Technical Projects
 **Moon Shape Widget**
-  - XCode, Swift, SwiftUI, Widget Kit
+  - XCode, Swift, SwiftUI, Widget Kit, ARKit
 * IPhone application that can show the moon phase as a lock screen widget
 * Free ver. : https://apps.apple.com/app/moon-shape-widget/id1665266588
 * Paid ver. : https://apps.apple.com/app/moon-shape-pro/id6450383619
