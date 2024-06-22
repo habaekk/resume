@@ -8,7 +8,7 @@
 * Bachelor of Computer Science GPA: 3.93 / 4.5
 
 ## Research Interest
-* IOS, Android Application
+* Web Front, IOS, Android Application
 
 ## Technical Projects
 **Moon Shape Widget**
