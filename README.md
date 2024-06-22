@@ -1,6 +1,6 @@
 # Bak Habaek
 
-* 4th Year Bachelor of Computer Science Student at SeoulTech
+* Bachelor of Computer Science Student at SeoulTech
 * email: haback1493@gmail.com || Github: https://github.com/habaekk
 
 ## Education
